@@ -1,4 +1,4 @@
-package dk.kotlinmicroservicesapp.datasource.mock
+package dk.microservicesApp.datasource.mock
 
 import org.assertj.core.api.Assertions
 import org.junit.jupiter.api.Test

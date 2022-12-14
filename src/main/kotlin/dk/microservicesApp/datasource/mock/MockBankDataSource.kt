@@ -1,7 +1,7 @@
-package dk.kotlinmicroservicesapp.datasource.mock
+package dk.microservicesApp.datasource.mock
 
-import dk.kotlinmicroservicesapp.datasource.BankDataSource
-import dk.kotlinmicroservicesapp.model.Bank
+import dk.microservicesApp.datasource.BankDataSource
+import dk.microservicesApp.model.Bank
 import org.springframework.stereotype.Repository
 
 @Repository

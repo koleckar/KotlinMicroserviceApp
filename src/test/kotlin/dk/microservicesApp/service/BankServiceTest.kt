@@ -1,7 +1,6 @@
-package dk.kotlinmicroservicesapp.service
+package dk.microservicesApp.service
 
-import dk.kotlinmicroservicesapp.datasource.BankDataSource
-import io.mockk.every
+import dk.microservicesApp.datasource.BankDataSource
 
 import io.mockk.mockk
 import io.mockk.verify

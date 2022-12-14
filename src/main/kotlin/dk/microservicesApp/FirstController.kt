@@ -1,4 +1,4 @@
-package dk.kotlinmicroservicesapp
+package dk.microservicesApp
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController

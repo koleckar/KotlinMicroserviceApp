@@ -1,4 +1,4 @@
-package dk.kotlinmicroservicesapp.model
+package dk.microservicesApp.model
 
 data class Bank(
     val accountNumber: String,

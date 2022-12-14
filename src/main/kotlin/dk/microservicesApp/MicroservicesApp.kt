@@ -1,4 +1,4 @@
-package dk.kotlinmicroservicesapp
+package dk.microservicesApp
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
